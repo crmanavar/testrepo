@@ -1,0 +1,49 @@
+Message-ID: <d1f73c97dc66f09ccc96d47ad9e4996c@localhost>
+Date: Fri, 19 Jan 2018 06:16:56 +0000
+Subject: Password reset for BASIC
+From: BASIC robot <support@example.com>
+To: ketan.cmarix@gmail.com
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="_=_swift_1516342616_6eee3215958f6f2d8a66d4dd3f7e8d76_=_"
+
+
+--_=_swift_1516342616_6eee3215958f6f2d8a66d4dd3f7e8d76_=_
+Content-Type: text/plain; charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+
+Hello ketanbarad,
+
+Follow this link to reset your password:
+
+Please=
+, click here to reset your password.
+
+--_=_swift_1516342616_6eee3215958f6f2d8a66d4dd3f7e8d76_=_
+Content-Type: text/html; charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org=
+/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns=3D"http://www.w3.org/1999/=
+xhtml">
+<head>
+    <meta http-equiv=3D"Content-Type" content=3D"text/ht=
+ml; charset=3DUTF-8" />
+    <title></title>
+    </head>
+<body>
+    =
+   =20
+Hello ketanbarad,
+
+Follow this link to reset your password:
+=
+
+<a href=3D"http://localhost/giddyapp/site/reset-password?token=3DZqbUW-U=
+2gRuTo9ixUbKXL-33scWz0n_s_1516342535">Please, click here to reset your pass=
+word.</a>    </body>
+</html>
+
+
+--_=_swift_1516342616_6eee3215958f6f2d8a66d4dd3f7e8d76_=_--

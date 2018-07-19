@@ -1,0 +1,41 @@
+{
+    "from": {
+        "name": "Truely Remote robot",
+        "email": "support@example.com"
+    },
+    "personalizations": [
+        {
+            "to": [
+                {
+                    "email": "crmanavar@gmail.com"
+                }
+            ]
+        },
+        {
+            "to": [
+                {
+                    "email": "crmanavar@gmail.com"
+                }
+            ]
+        }
+    ],
+    "subject": "Password reset for Truely Remote",
+    "content": [
+        {
+            "type": "text\/plain",
+            "value": "Hello cmanavar,\n\nFollow this link to reset your password:\n\nPlease, click here to reset your password."
+        },
+        {
+            "type": "text\/html",
+            "value": "<!DOCTYPE html PUBLIC \"-\/\/W3C\/\/DTD XHTML 1.0 Strict\/\/EN\" \"http:\/\/www.w3.org\/TR\/xhtml1\/DTD\/xhtml1-strict.dtd\">\n<html xmlns=\"http:\/\/www.w3.org\/1999\/xhtml\">\n<head>\n    <meta http-equiv=\"Content-Type\" content=\"text\/html; charset=UTF-8\" \/>\n    <title><\/title>\n    <\/head>\n<body>\n        \nHello cmanavar,\n\nFollow this link to reset your password:\n\n<a href=\"http:\/\/localhost\/yii\/admin\/default\/reset-password?token=tSAwzQGOKJBi-i6JUxvewolc4d50gN7L_1531502265\">Please, click here to reset your password.<\/a>    <\/body>\n<\/html>\n"
+        },
+        {
+            "type": "text\/plain",
+            "value": "Hello cmanavar,\n\nFollow this link to reset your password:\n\nPlease, click here to reset your password."
+        },
+        {
+            "type": "text\/html",
+            "value": "<!DOCTYPE html PUBLIC \"-\/\/W3C\/\/DTD XHTML 1.0 Strict\/\/EN\" \"http:\/\/www.w3.org\/TR\/xhtml1\/DTD\/xhtml1-strict.dtd\">\n<html xmlns=\"http:\/\/www.w3.org\/1999\/xhtml\">\n<head>\n    <meta http-equiv=\"Content-Type\" content=\"text\/html; charset=UTF-8\" \/>\n    <title><\/title>\n    <\/head>\n<body>\n        \nHello cmanavar,\n\nFollow this link to reset your password:\n\n<a href=\"http:\/\/localhost\/yii\/admin\/default\/reset-password?token=tSAwzQGOKJBi-i6JUxvewolc4d50gN7L_1531502265\">Please, click here to reset your password.<\/a>    <\/body>\n<\/html>\n"
+        }
+    ]
+}

@@ -1,0 +1,16 @@
+RewriteEngine on
+
+# AuthType Basic
+# AuthName "Restricted Area"
+# AuthUserFile /sites/internal/arcadeapp/beta/.htpasswd
+# Require valid-user
+
+#RewriteCond %{HTTPS} off
+#RewriteRule ^(.*)$ https://%{HTTP_HOST}%{REQUEST_URI} [L,R=301]
+
+# If a directory or a file exists, use it directly
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_FILENAME} !-d
+# Otherwise forward it to index.php
+RewriteRule . index.php
+
